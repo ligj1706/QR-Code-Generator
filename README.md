@@ -4,7 +4,7 @@ A modern, user-friendly QR code generator built with React and TypeScript. Creat
 
 Created entirely using bolt.new with no code modifications. Completed in 5 minutes.👌
 
-![QR Code Generator Preview](https://images.unsplash.com/photo-1605236453806-6ff36851218e?auto=format&fit=crop&q=80&w=2000)
+![web](https://p.ipic.vip/algt2d.png)
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ Created entirely using bolt.new with no code modifications. Completed in 5 minut
 
 ## 🚀 Live Demo
 
-Try it out: [QR Code Generator Live Demo](https://qr-code-generator-demo.netlify.app)
+Try it out: [https://moonlit-phoenix-9b3d54.netlify.app/)
 
 ## 🛠️ Built With
 
